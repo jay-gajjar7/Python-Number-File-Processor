@@ -56,11 +56,11 @@ This project was developed during my Python learning phase to enhance my skills 
 - **Extended File Format** Support: Expand support to other file formats like CSV or JSON.
 - **Enhanced Error Handling**: Improve error messages and handling for a more robust user experience.
 
-Contributing
+## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your enhancements or bug fixes.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
 Python.org for providing comprehensive documentation and resources.
