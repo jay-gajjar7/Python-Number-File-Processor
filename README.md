@@ -30,7 +30,7 @@ This project was developed during my Python learning phase to enhance my skills 
 - **Tkinter**: Confirm Tkinter is available with your Python installation. It is usually bundled with most Python setups. If missing, install it using:
   ```bash
   sudo apt-get install python3-tk  # For Ubuntu/Linux
-Installation Steps
+## Installation Steps
 1. Clone the Repository: Download the project files from GitHub
       git clone https://github.com/your-username/python-number-file-processor.git
    
@@ -38,7 +38,7 @@ Installation Steps
    
 4. Run the Application: Execute the main script from your IDE to launch the application.
 
-Usage Guide
+## Usage Guide
 1. Launch the Application: Run the main script to open the GUI window with several buttons corresponding to different functionalities.
 2. Select / Create File: Use this option to choose an existing text file or create a new file for storing numbers.
 3. Display All: Click to view all numbers in the file along with their total sum and average.
@@ -50,11 +50,11 @@ Usage Guide
 9. Decrypt File: Decrypts the previously encrypted file content back to its original state.
 10. Exit: Closes the application.  
 
-Future Enhancements
--Improved Encryption: Explore more advanced encryption methods to enhance file security.
--User Customization: Allow users to set custom encryption keys and random number ranges.
--Extended File Format Support: Expand support to other file formats like CSV or JSON.
--Enhanced Error Handling: Improve error messages and handling for a more robust user experience.
+## Future Enhancements
+-**Improved Encryption**: Explore more advanced encryption methods to enhance file security.
+-**User Customization**: Allow users to set custom encryption keys and random number ranges.
+-**Extended File Format** Support: Expand support to other file formats like CSV or JSON.
+-**Enhanced Error Handling**: Improve error messages and handling for a more robust user experience.
 
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your enhancements or bug fixes.
