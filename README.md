@@ -32,9 +32,10 @@ This project was developed during my Python learning phase to enhance my skills 
   sudo apt-get install python3-tk  # For Ubuntu/Linux
 ## Installation Steps
 1. Clone the Repository: Download the project files from GitHub
-      git clone https://github.com/your-username/python-number-file-processor.git
+
+   git clone https://github.com/jay-gajjar7/Python-Number-File-Processor
    
-2. Open the Project: Load the project into PyCharm or any Python IDE of your choice.
+3. Open the Project: Load the project into PyCharm or any Python IDE of your choice.
    
 4. Run the Application: Execute the main script from your IDE to launch the application.
 
