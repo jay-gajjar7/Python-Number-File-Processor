@@ -51,10 +51,10 @@ Usage Guide
 10. Exit: Closes the application.  
 
 Future Enhancements
-Improved Encryption: Explore more advanced encryption methods to enhance file security.
-User Customization: Allow users to set custom encryption keys and random number ranges.
-Extended File Format Support: Expand support to other file formats like CSV or JSON.
-Enhanced Error Handling: Improve error messages and handling for a more robust user experience.
+-Improved Encryption: Explore more advanced encryption methods to enhance file security.
+-User Customization: Allow users to set custom encryption keys and random number ranges.
+-Extended File Format Support: Expand support to other file formats like CSV or JSON.
+-Enhanced Error Handling: Improve error messages and handling for a more robust user experience.
 
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your enhancements or bug fixes.
